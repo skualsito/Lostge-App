@@ -1,16 +1,10 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- * @flow
- */
 
 import React from 'react';
-import Login from './views/Login';
+import Router from './router';
+
 const App = () => {
   return (
-    <Login></Login>
+    <Router/>
   );
 };
 

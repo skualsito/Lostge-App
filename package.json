@@ -9,7 +9,13 @@
   },
   "dependencies": {
     "react": "16.8.6",
-    "react-native": "0.60.5"
+    "react-native": "0.60.5",
+    "react-native-cookies": "^3.3.0",
+    "react-native-gesture-handler": "^1.4.1",
+    "react-native-instagram-login": "^1.1.2",
+    "react-native-webview": "^7.2.5",
+    "react-navigation": "^4.0.10",
+    "react-navigation-stack": "^1.9.0"
   },
   "devDependencies": {
     "@babel/core": "7.6.2",
